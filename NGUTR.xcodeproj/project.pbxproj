@@ -13,7 +13,6 @@
 		68FEEE391FC2E606000FF9FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68FEEE381FC2E606000FF9FC /* Assets.xcassets */; };
 		68FEEE3C1FC2E606000FF9FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68FEEE3A1FC2E606000FF9FC /* LaunchScreen.storyboard */; };
 		68FEEE3F1FC2E606000FF9FC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 68FEEE3E1FC2E606000FF9FC /* main.m */; };
-		68FEEE481FC3C26A000FF9FC /* AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 68FEEE471FC3C26A000FF9FC /* AViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,7 +27,6 @@
 		68FEEE3D1FC2E606000FF9FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		68FEEE3E1FC2E606000FF9FC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		68FEEE461FC3C26A000FF9FC /* AViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AViewController.h; sourceTree = "<group>"; };
-		68FEEE471FC3C26A000FF9FC /* AViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +64,6 @@
 				68FEEE321FC2E606000FF9FC /* ViewController.h */,
 				68FEEE331FC2E606000FF9FC /* ViewController.m */,
 				68FEEE461FC3C26A000FF9FC /* AViewController.h */,
-				68FEEE471FC3C26A000FF9FC /* AViewController.m */,
 				68FEEE351FC2E606000FF9FC /* Main.storyboard */,
 				68FEEE381FC2E606000FF9FC /* Assets.xcassets */,
 				68FEEE3A1FC2E606000FF9FC /* LaunchScreen.storyboard */,
@@ -147,7 +144,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				68FEEE481FC3C26A000FF9FC /* AViewController.m in Sources */,
 				68FEEE341FC2E606000FF9FC /* ViewController.m in Sources */,
 				68FEEE3F1FC2E606000FF9FC /* main.m in Sources */,
 				68FEEE311FC2E606000FF9FC /* AppDelegate.m in Sources */,
